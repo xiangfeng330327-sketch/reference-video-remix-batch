@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Runtime state and generated media must not enter the public repository.
+batch-work/
+batch-state.private.json
+confirmation-receipt.private.json
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
